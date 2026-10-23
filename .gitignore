@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Local data exports and credentials
+.env
+*.log
+
+# Power BI temporary/backup files
+*.pbix.autosave
+*.pbit.autosave
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
